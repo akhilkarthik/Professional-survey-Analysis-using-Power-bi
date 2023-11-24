@@ -9,8 +9,9 @@ Welcome to my Professional Survey Power BI Analysis repository! 📊✨
 ## Overview
 
 This Power BI analysis dives deep into survey data, unraveling insights and trends that matter. From geographical distributions to job satisfaction levels, this project illuminates the world of data in a captivating way.
-![survey](https://github.com/akhilkarthik/Professional-survey-Analysis-using-Power-bi/assets/40953068/8bac0197-0ae9-4f18-becd-7cc64e6157da)
 
+
+![salary22](https://github.com/akhilkarthik/Professional-survey-Analysis-using-Power-bi/assets/40953068/283e2c02-0b70-4b66-8782-3e59ab8f1205)
 
 ## Key Features
 
