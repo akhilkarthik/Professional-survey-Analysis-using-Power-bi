@@ -1,6 +1,5 @@
 
 Professional Survey analysis using power bi
-This Power BI analysis dives deep into survey data, unraveling insights and trends that matter. From geographical distributions to job satisfaction levels, this project illuminates the world of data in a captivating way.
 
 # Professional Survey Power BI Analysis 🚀
 
